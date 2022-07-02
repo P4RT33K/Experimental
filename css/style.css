@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #b8b8b8;
+    margin-top: -15px;
+}
+.desc{
+    margin: -10px 10vw 0 10vw;
+}
+.wrap{
+    display: grid;
+    grid-template-columns: max-content;
+}
+.box{
+    width: 400px;
+    height: 320px;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
